@@ -1,0 +1,29 @@
+""" ===============================================================================================================
+
+
+
+1. List - Ordered
+2. Tuples - Ordered
+3. Dictionary - Unordered
+4. Set - Unordered
+5. Ndarray - Ordered and elements of same type
+
+
+- Tuples can be used as keys in dictionaries and elements of sets
+
+
+Slicing numpy array indexing  -  gives a subarray of main array
+Integer numpy array indexing  -  gives a new array
+
+
+Broadcasting:
+- Broadcasting is a powerful mechanism that allows numpy to work with
+  arrays of different shapes when performing arithmetic operations.
+
+- Functions that support broadcasting are known as universal functions.
+
+
+
+
+================================================================================================================ """
+
